@@ -12,3 +12,4 @@ The Fitness Tracker app will allow you to record any exercise that you implement
 * Mongoose
 
 ## Deployed Link
+[Fitness Tracker](https://fitness-tracker-dashboard.herokuapp.com/)
